@@ -1,0 +1,79 @@
+[
+    {
+        "id": "623dec23a65f185396d63a73",
+        "price": 600,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vacheron-1636411138.jpg?crop=1xw:1xh;center,top&resize=480:*",
+        "name": "Jaeger-LeCoultre",
+        "company": "EYERIS"
+    },
+    {
+        "id": "623dec23ab4c0afeca10e736",
+        "price": 1000,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/audemars-piguet-1636410068.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Audemars Piguet",
+        "company": "OTHERWAY"
+    },
+    {
+        "id": "623dec232122d7d4c86052f8",
+        "price": 750,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/frederique-constant-1636410481.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Frederiquepiguet",
+        "company": "VENDBLEND"
+    },
+    {
+        "id": "623dec23e7bfc04ada335134",
+        "price": 800,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/piaget-1636410151.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Piaget",
+        "company": "SNIPS"
+    },
+    {
+        "id": "623dec231d7b23e4b27b7d9e",
+        "price": 930,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/blancpain-1636410423.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Blancpain",
+        "company": "DUFLEX"
+    },
+    {
+        "id": "623dec23c34ab6dd15cca098",
+        "price": 500,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/longines-1636410346.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Longines",
+        "company": "EXODOC"
+    },
+    {
+        "id": "623dec239c40441fc63d35df",
+        "price": 980,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zenith-1636410580.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Zenith",
+        "company": "ENERVATE"
+    },
+    {
+        "id": "623dec2373e23fc5f933fdad",
+        "price": 390,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tudor-1636410890.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Tudor",
+        "company": "GEEKKO"
+    },
+    {
+        "id": "623dec23f9b36ae26ea0114c",
+        "price": 480,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/omega-1636410953.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Omega",
+        "company": "QIAO"
+    },
+    {
+        "id": "623dec237933648ca6586041",
+        "price": 400,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rolex-1636411005.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "Rolex",
+        "company": "AUTOGRATE"
+    },
+    {
+        "id": "623dec23cf749b4c9339c3f4",
+        "price": 820,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meisersinger-1636411823.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "name": "MeisterSinger",
+        "company": "PIGZART"
+    }
+]
